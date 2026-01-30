@@ -3,7 +3,7 @@
 Este proyecto ha sido desarrollado de forma colaborativa como parte del Reto 3.1.
 
 ## Integrantes
-* *Donovan Saucedo* - Git Master (Desarrollo de funcionalidades y documentación)
+* *Donovan Saucedo* - Colaborador (Desarrollo de funcionalidades y documentación)
 * *Jorge Abellán* - Owner (Arquitectura base y mantenimiento)
 
 ## Cambios realizados por Donovan
