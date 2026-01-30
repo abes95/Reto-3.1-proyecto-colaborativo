@@ -11,6 +11,15 @@ Asegúrate de tener instalado el siguiente software en tu equipo:
 *   [Node.js](https://nodejs.org/) y NPM
 *   Un servidor de base de datos MySQL (por ejemplo, a través de [XAMPP](https://www.apachefriends.org/es/index.html) o MySQL Server directo)
 
+## Comandos Útiles de Laravel
+Durante el desarrollo, puedes usar estos comandos frecuentes:
+
+| Comando | Descripción |
+- `php artisan route:list`: Lista todas las rutas registradas. 
+- `php artisan config:clear`: Limpia la caché de configuración.
+- `php artisan make:controller Nombre`: Crea un nuevo controlador.
+- `php artisan migrate:status`: Muestra el estado de las migraciones.
+
 ## Instalación y Configuración
 
 Sigue estos pasos detallados para levantar el proyecto:
